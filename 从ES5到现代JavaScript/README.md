@@ -35,3 +35,4 @@
 - ES2021: 逻辑赋值运算符，String.prototype.replaceAll()
 - ES2022: Top-level await, Object.hasOwn(), at()方法
 - ES2023: 数组查找方法的扩展（findLast(), findLastIndex(), toReversed()），WeakMap 支持 Symbol 键，新的数组复制方法（toSorted(), toSpliced()），Array.prototype.with()，Hashbang 语法
+- ES2024: RegExp v flag (设置符号的字符串属性访问)，Promise.withResolvers()，String.prototype.isWellFormed() 和 String.prototype.codePointAt()
